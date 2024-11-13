@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868111527688",
+    "project_id": "praktikumpapb-tasya",
+    "storage_bucket": "praktikumpapb-tasya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868111527688:android:46581fff66700d13a206bd",
+        "android_client_info": {
+          "package_name": "com.example.prakpapb_m2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUnuUDQ-mxPItOh2-toQPDs0TfXaUDnuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
